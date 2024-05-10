@@ -1,0 +1,20 @@
+[Mapa]
+Name=Nuevo Mapa
+MusicNum=0
+NoMagia=0
+Nivel=1
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=0
+BackUp=0
+Pk=0
+[Mpa]
+Name=Reto Por PJ
+MusicNum=0
+NoMagia=0
+Nivel=1
+Terreno=NIEVE
+Zona=CAMPO
+Restringir=0
+BackUp=1
+Pk=0

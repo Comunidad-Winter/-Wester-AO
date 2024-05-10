@@ -1,0 +1,10 @@
+[INIT]
+MaxCanjes= Cantidad Maxima De canjes
+OBJCopa = el item que vendria a ser la copa
+
+'Canje 1
+[1]
+Valor= cantidad de copas
+OBJCantidad= cantidad de objetos del premio
+OBJIndex= obj de premio del obj.dat
+
